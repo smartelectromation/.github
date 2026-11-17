@@ -14,7 +14,7 @@ un routeur solaire : au lieu d'injecter gratuitement sur le réseau le surplus d
 photovoltaïques, il l'envoie vers votre chauffe-eau et un second équipement.
 
 - Routage en temps réel sur 2 sorties, priorité au chauffe-eau, correction toutes les 20 ms (50 fois par seconde).
-- Gradation à moins de 1 W près sur les charges résistives ; mode Automatique en tout-ou-rien quand c'est rentable ; Sortie 1 en 0-10 V ; module SG-Ready.
+- Modulation à moins de 1 W près sur les charges résistives ; mode Automatique en tout-ou-rien quand c'est rentable ; Sortie 1 en 0-10 V ; module SG-Ready.
 - Boost, heures creuses sur 2 plages, délesteur, anti-bactéries (65 °C si la température n'a pas été atteinte sur les 4 derniers jours), 90 jours de données conservées sans WiFi.
 - API locale ouverte : HTTP GET, JSON, API REST, MQTT. Compatible Home Assistant et Jeedom.
 - Produit testé par un laboratoire accrédité en France.
